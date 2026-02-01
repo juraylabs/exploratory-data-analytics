@@ -117,3 +117,6 @@ The patterns used here reflect how I analyze data in production environments pri
 - 📊 Build dashboards in Tableau, Power BI, or Qlik using reporting views  
 - 🐍 Extend analysis with Python for deeper statistical insights  
 - 🧪 Add data quality checks and validation queries  
+
+## 👋 About Me
+More of my work: [github.com/juraylabs](https://github.com/juraylabs)
